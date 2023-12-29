@@ -2,7 +2,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace API.DTOs
 {
-    public class UserDto
+    public class UserDto 
     {   
         public int Id { get; set; }
 

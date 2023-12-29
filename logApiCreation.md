@@ -268,6 +268,16 @@ namespace API.Controllers
 
 
 
+### Login with SSO
+
+```bash
+dotnet add package Google.Apis.Auth
+
+dotnet add Microsoft.AspNetCore.Authentication.Google
+```
+
+
+
 
 
 **Extra packages**

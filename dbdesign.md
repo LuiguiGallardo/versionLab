@@ -60,3 +60,9 @@ Technologies:
 - JWT (bearer authentication or SSO)
 - CI/CD (API and DB) with Azure DevOps
 - Deployement in App Service
+
+
+
+Tasks:
+
+* Add relationship in database
